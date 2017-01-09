@@ -1,0 +1,4 @@
+F:\ENI\Emprah_project\BO\bin\Debug\BO.dll
+F:\ENI\Emprah_project\BO\bin\Debug\BO.pdb
+F:\ENI\Emprah_project\BO\obj\Debug\BO.dll
+F:\ENI\Emprah_project\BO\obj\Debug\BO.pdb

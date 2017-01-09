@@ -1,0 +1,26 @@
+Classe Arme
+
+Nom
+
+Type : Melee, Jet, Pistolet, Base, Lourde
+
+Portée
+
+Cadence C/Semi/Auto
+
+Degats : typeDegat : E(energie), I(impact), D(dechirant), X(explosif)
+
+Penetration
+
+Autonomie
+
+Rechargement
+
+Special
+
+Poids
+
+Page
+
+
+

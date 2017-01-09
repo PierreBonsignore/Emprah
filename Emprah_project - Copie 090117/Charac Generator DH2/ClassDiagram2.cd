@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Charac_Generator_DH2.Backgrounds._Background" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAAAABAAAAEAgAEAAAAAwAAQAACAQAAAgBAQhAAQAA=</HashCode>
+      <FileName>Backgrounds\_Background.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Caractéristique" Collapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACgAAAAEgEAAACAEAAAgAAhAAAAgAAAAIAAAA=</HashCode>
+      <FileName>Carcacs\Caractéristique.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Dés" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Dés.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Personnage" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEACIAAAIBAAASAQAAlAAIAChCIIgQAAAIEQQAAAkCE=</HashCode>
+      <FileName>Personnage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Program" Collapsed="true">
+    <Position X="18" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABIAAAAAAAAAAAAgAAAEAAAABAAAAAAAAAAABAEAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Saisies" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQBAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Saisies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Traduction" Collapsed="true">
+    <Position X="16.75" Y="2.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAgAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Equipements._Arme" Collapsed="true">
+    <Position X="1.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Equipements\Armes\_Arme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Equipements.Equipement" Collapsed="true">
+    <Position X="1.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAABAAAAAQAAAAAIgAAACAAAAAAAAAAAiAAAAA=</HashCode>
+      <FileName>Equipements\Equipement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Equipements.Armes.ArmeDeJet" Collapsed="true">
+    <Position X="2.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Equipements\Armes\ArmeDeJet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Equipements.Armes._ArmeADistance" Collapsed="true">
+    <Position X="7.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Equipements\Armes\Armes à Distance\_ArmeADistance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Equipements.Armes._Cadence" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACQAAAAAAAAAAAAAAAAAAAAAAAAACgAIAAAAAAAIA=</HashCode>
+      <FileName>Equipements\Armes\Armes à Distance\_Cadence.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Equipements.Armes.Melée" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Equipements\Armes\Melée.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Equipements.Armes.Mélée_Jet" Collapsed="true">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Equipements\Armes\Mélée_Jet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Equipements.Armes.Armes_à_Distance.ArmeLourde_Distance" Collapsed="true">
+    <Position X="5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Equipements\Armes\Armes à Distance\ArmeLourde_Distance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Equipements.Armes.Armes_à_Distance.Base_Distance" Collapsed="true">
+    <Position X="7.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Equipements\Armes\Armes à Distance\Base_Distance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Equipements.Armes.Armes_à_Distance.Pistolet" Collapsed="true">
+    <Position X="9.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Equipements\Armes\Armes à Distance\Pistolet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Mondes_Natal._Monde_Natal" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAIAAAACBAAgAEQABgIgAAACAAAAAAAAAAYoACACA=</HashCode>
+      <FileName>Mondes_Natal\_Monde_Natal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Mondes_Natal.EnfantDuVide" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mondes_Natal\EnfantDuVide.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Mondes_Natal.HauteNaissance" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mondes_Natal\HauteNaissance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Mondes_Natal.MondeForge" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mondes_Natal\MondeForge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Mondes_Natal.MondeRuche" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mondes_Natal\MondeRuche.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Mondes_Natal.MondeSaint" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mondes_Natal\MondeSaint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charac_Generator_DH2.Mondes_Natal.MondeSauvage" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mondes_Natal\MondeSauvage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Charac_Generator_DH2.TypeMonde" Collapsed="true">
+    <Position X="16.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAACAgAAAAAAAAAAEAAAABAAgAAA=</HashCode>
+      <FileName>Mondes_Natal\Enum_Mondes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Charac_Generator_DH2.Mondes_Natal.BonusDeCarac" Collapsed="true">
+    <Position X="14.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Mondes_Natal\BonusDeCarac.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

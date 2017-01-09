@@ -1,8 +1,0 @@
-G:\ENI\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-G:\ENI\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-G:\ENI\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
-G:\ENI\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-G:\ENI\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-F:\ENI\Emprah_project\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-F:\ENI\Emprah_project\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-F:\ENI\Emprah_project\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

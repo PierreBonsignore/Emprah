@@ -1,0 +1,7 @@
+F:\ENI\Emprah_project\BLL\bin\Debug\BLL.dll
+F:\ENI\Emprah_project\BLL\bin\Debug\BLL.pdb
+F:\ENI\Emprah_project\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\ENI\Emprah_project\BLL\obj\Debug\BLL.dll
+F:\ENI\Emprah_project\BLL\obj\Debug\BLL.pdb
+F:\ENI\Emprah_project\BLL\bin\Debug\BO.dll
+F:\ENI\Emprah_project\BLL\bin\Debug\BO.pdb

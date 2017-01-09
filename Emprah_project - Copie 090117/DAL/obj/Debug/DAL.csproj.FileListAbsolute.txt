@@ -1,0 +1,4 @@
+F:\ENI\Emprah_project\DAL\bin\Debug\DAL.dll
+F:\ENI\Emprah_project\DAL\bin\Debug\DAL.pdb
+F:\ENI\Emprah_project\DAL\obj\Debug\DAL.dll
+F:\ENI\Emprah_project\DAL\obj\Debug\DAL.pdb
