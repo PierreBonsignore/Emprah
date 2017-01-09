@@ -34,3 +34,6 @@ F:\ENI\Emprah_project\Charac Generator DH2\bin\Debug\BLL.dll
 F:\ENI\Emprah_project\Charac Generator DH2\bin\Debug\BO.dll
 F:\ENI\Emprah_project\Charac Generator DH2\bin\Debug\BLL.pdb
 F:\ENI\Emprah_project\Charac Generator DH2\bin\Debug\BO.pdb
+E:\Prog\Emprah\Emprah_project - Copie 090117\Charac Generator DH2\bin\Debug\Charac Generator DH2.exe.config
+E:\Prog\Emprah\Emprah_project - Copie 090117\Charac Generator DH2\obj\Debug\Charac Generator DH2.exe
+E:\Prog\Emprah\Emprah_project - Copie 090117\Charac Generator DH2\obj\Debug\Charac Generator DH2.pdb
