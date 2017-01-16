@@ -7,3 +7,4 @@ E:\Prog\Emprah\Emprah_project - Copie 090117\BO\bin\Debug\BO.pdb
 E:\Prog\Emprah\Emprah_project - Copie 090117\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
 E:\Prog\Emprah\Emprah_project - Copie 090117\BO\obj\Debug\BO.dll
 E:\Prog\Emprah\Emprah_project - Copie 090117\BO\obj\Debug\BO.pdb
+F:\ENI\Emprah_project\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache

@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace BO
 {
+    [Serializable]
     public enum TypeRech
     {
         DemiAction,
         Action
     }
+    [Serializable]
     public class Rech
     {
         public int nbAction;

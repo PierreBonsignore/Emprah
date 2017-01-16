@@ -54,6 +54,19 @@ namespace BO
             }
         }
         #endregion
+     
+        public Equipement()
+        {
+
+        }
+
+        public Equipement(string nom=null, int poids = 0,Disponibilité dispo=Disponibilité.Commun, string refPage = "0")
+        {
+            this.Nom = nom;
+            this.Poids = poids;
+            this.Disponibilité = dispo;
+            this.RefPage = refPage;
+        }
 
         public override string ToString()
         {

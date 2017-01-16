@@ -1,9 +1,17 @@
-﻿namespace BO
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Runtime.Serialization.Formatters.Soap;
+
+namespace BO
 {
     /// <summary>
     /// Détermine la cadence de tir d'une arme.
     /// Propriétés CoupParCoup, SemiAuto et Automatique.
     /// </summary>
+    [Serializable]
     public class Cadence
     {
         // Cadence: C/S/A

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace BO
 {
+    [Serializable]
     public class Degats
     {
         private TypeDegats type;

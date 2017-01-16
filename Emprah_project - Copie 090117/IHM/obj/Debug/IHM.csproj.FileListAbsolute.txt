@@ -11,3 +11,16 @@ E:\Prog\Emprah\Emprah_project - Copie 090117\IHM\obj\Debug\IHM.Properties.Resour
 E:\Prog\Emprah\Emprah_project - Copie 090117\IHM\obj\Debug\IHM.csproj.GenerateResource.Cache
 E:\Prog\Emprah\Emprah_project - Copie 090117\IHM\obj\Debug\IHM.exe
 E:\Prog\Emprah\Emprah_project - Copie 090117\IHM\obj\Debug\IHM.pdb
+F:\ENI\Emprah_project\IHM\bin\Debug\IHM.exe.config
+F:\ENI\Emprah_project\IHM\obj\Debug\IHM.exe
+F:\ENI\Emprah_project\IHM\obj\Debug\IHM.pdb
+F:\ENI\Emprah_project\IHM\bin\Debug\IHM.exe
+F:\ENI\Emprah_project\IHM\bin\Debug\IHM.pdb
+F:\ENI\Emprah_project\IHM\bin\Debug\BO.dll
+F:\ENI\Emprah_project\IHM\bin\Debug\DAL.dll
+F:\ENI\Emprah_project\IHM\bin\Debug\BO.pdb
+F:\ENI\Emprah_project\IHM\bin\Debug\DAL.pdb
+F:\ENI\Emprah_project\IHM\obj\Debug\IHM.csprojResolveAssemblyReference.cache
+F:\ENI\Emprah_project\IHM\obj\Debug\IHM.Form1.resources
+F:\ENI\Emprah_project\IHM\obj\Debug\IHM.Properties.Resources.resources
+F:\ENI\Emprah_project\IHM\obj\Debug\IHM.csproj.GenerateResource.Cache

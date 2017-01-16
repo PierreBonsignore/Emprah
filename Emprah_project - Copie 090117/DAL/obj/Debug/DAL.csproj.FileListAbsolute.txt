@@ -9,3 +9,6 @@ E:\Prog\Emprah\Emprah_project - Copie 090117\DAL\bin\Debug\BO.pdb
 E:\Prog\Emprah\Emprah_project - Copie 090117\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 E:\Prog\Emprah\Emprah_project - Copie 090117\DAL\obj\Debug\DAL.dll
 E:\Prog\Emprah\Emprah_project - Copie 090117\DAL\obj\Debug\DAL.pdb
+F:\ENI\Emprah_project\DAL\bin\Debug\BO.dll
+F:\ENI\Emprah_project\DAL\bin\Debug\BO.pdb
+F:\ENI\Emprah_project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

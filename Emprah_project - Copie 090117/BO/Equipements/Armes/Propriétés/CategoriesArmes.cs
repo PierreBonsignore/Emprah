@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace BO.Equipements.Armes.Propriétés
 {
+    [Serializable]
     enum CategoriesArmes
     {
         Bolt=1,

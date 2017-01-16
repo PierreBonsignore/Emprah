@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace BO
 {
+    [Serializable]
     public enum TypesArmes
     {
         Melee=0,
