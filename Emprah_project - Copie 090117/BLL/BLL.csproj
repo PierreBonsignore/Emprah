@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GenerateurArmes.cs" />
+    <Compile Include="ArmesBLL.cs" />
     <Compile Include="IGenerateur.cs" />
     <Compile Include="tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -51,6 +51,10 @@
     <ProjectReference Include="..\BO\BO.csproj">
       <Project>{b26ba118-c115-45eb-bcdd-9398965363d4}</Project>
       <Name>BO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{981515e1-76ae-46f0-9a3c-acc3a9384b60}</Project>
+      <Name>DAL</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

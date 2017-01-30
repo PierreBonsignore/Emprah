@@ -1,0 +1,14 @@
+F:\ENI\Emprah_project\testMethodes\bin\Debug\testMethodes.dll
+F:\ENI\Emprah_project\testMethodes\bin\Debug\testMethodes.pdb
+F:\ENI\Emprah_project\testMethodes\bin\Debug\BLL.dll
+F:\ENI\Emprah_project\testMethodes\bin\Debug\BO.dll
+F:\ENI\Emprah_project\testMethodes\bin\Debug\DAL.dll
+F:\ENI\Emprah_project\testMethodes\bin\Debug\BLL.pdb
+F:\ENI\Emprah_project\testMethodes\bin\Debug\BO.pdb
+F:\ENI\Emprah_project\testMethodes\bin\Debug\DAL.pdb
+F:\ENI\Emprah_project\testMethodes\obj\Debug\testMethodes.csprojResolveAssemblyReference.cache
+F:\ENI\Emprah_project\testMethodes\obj\Debug\testMethodes.dll
+F:\ENI\Emprah_project\testMethodes\obj\Debug\testMethodes.pdb
+E:\Prog\Emprah\Emprah_project - Copie 090117\testMethodes\obj\Debug\testMethodes.csprojResolveAssemblyReference.cache
+E:\Prog\Emprah\Emprah_project - Copie 090117\testMethodes\obj\Debug\testMethodes.dll
+E:\Prog\Emprah\Emprah_project - Copie 090117\testMethodes\obj\Debug\testMethodes.pdb

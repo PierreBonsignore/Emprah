@@ -12,3 +12,5 @@ E:\Prog\Emprah\Emprah_project - Copie 090117\DAL\obj\Debug\DAL.pdb
 F:\ENI\Emprah_project\DAL\bin\Debug\BO.dll
 F:\ENI\Emprah_project\DAL\bin\Debug\BO.pdb
 F:\ENI\Emprah_project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\ENI\Emprah_project\DAL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\ENI\Emprah_project\DAL\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll

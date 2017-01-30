@@ -16,20 +16,20 @@ namespace BO
     {
         // Cadence: C/S/A
 
-        private int c;
-        private int s;
-        private int a;
+        private int cpc;
+        private int semi;
+        private int auto;
 
         public int CoupParCoup
         {
             get
             {
-                return c;
+                return cpc;
             }
 
             set
             {
-                c = value;
+                cpc = value;
             }
         }
 
@@ -37,12 +37,12 @@ namespace BO
         {
             get
             {
-                return s;
+                return semi;
             }
 
             set
             {
-                s = value;
+                semi = value;
             }
         }
 
@@ -50,12 +50,12 @@ namespace BO
         {
             get
             {
-                return a;
+                return auto;
             }
 
             set
             {
-                a = value;
+                auto = value;
             }
         }
 

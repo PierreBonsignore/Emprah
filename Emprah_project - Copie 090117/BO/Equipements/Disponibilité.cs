@@ -2,15 +2,15 @@
 {
     public enum Disponibilité
     {
-        Ubiquitous = 0,
-        Abondant = 1,
-        Commun = 2,
-        Moyen = 4,
-        Scarce = 6,
-        Rare = 8,
-        TresRare = 10,
-        ExtremementRare = 12,
-        PresqueUnique = 14,
-        Unique = 16
+        Abondant = 0,
+        TrèsCourant = 1,
+        Courant = 2,
+        AssezCourant = 3,
+        Inhabituel = 4,
+        Rare = 5,
+        TresRare = 6,
+        ExtremementRare = 7,
+        PresqueUnique = 8,
+        Unique = 9
     }
 }

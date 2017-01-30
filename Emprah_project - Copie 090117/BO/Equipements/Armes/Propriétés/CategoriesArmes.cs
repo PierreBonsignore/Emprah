@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace BO.Equipements.Armes.Propriétés
 {
     [Serializable]
-    enum CategoriesArmes
+    public enum CategoriesArmes
     {
         Bolt=1,
         LanceFlamme=2,

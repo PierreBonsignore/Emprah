@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BO.Equipements;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,12 +7,14 @@ using System.Threading.Tasks;
 
 namespace BO
 {
+    [Serializable]
     public abstract class Equipement
     {
         #region VARIABLES
         private string nom;
         private int poids;
-        private string refPage;
+        private string referencePage;
+        private Source source;
         #endregion
 
         #region PROPS
@@ -45,34 +48,41 @@ namespace BO
         {
             get
             {
-                return refPage;
+                return referencePage;
             }
 
             set
             {
-                refPage = value;
+                referencePage = value;
             }
         }
+
+        public Source Source
+        {
+            get { return source; }
+            set { source = value; }
+        }
+
         #endregion
-     
+
         public Equipement()
         {
 
         }
 
-        public Equipement(string nom=null, int poids = 0,Disponibilité dispo=Disponibilité.Commun, string refPage = "0")
+        public Equipement(string nom, Disponibilité dispo=Disponibilité.Courant, int pds=0, string refPage="", Source src=Source.Personalisé)
         {
             this.Nom = nom;
             this.Poids = poids;
             this.Disponibilité = dispo;
+            this.poids = pds;
             this.RefPage = refPage;
+            this.Source = src;
         }
 
         public override string ToString()
         {
-            StringBuilder s = new StringBuilder();
-            s.Append(this.Nom.ToUpper() + "\nPoids: " + this.Poids + " kg\nPage: " + this.RefPage + "\nDisponibilité: " + this.Disponibilité);
-            return s.ToString();
+            return this.Nom;
         }
     }
 }

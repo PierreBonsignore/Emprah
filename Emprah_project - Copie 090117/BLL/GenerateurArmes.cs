@@ -4,15 +4,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.ComponentModel;
+using System.IO;
+using DAL;
 
 namespace BLL
 {
     public class GenerateurArmesDictance : IGenerateur<Arme>
     {
-        private List<Arme> listeArmes;
+        private BindingList<Arme> listeArmes;
 
         #region Props
-        public List<Arme> ListeArmes
+        public BindingList<Arme> ListeArmes
         {
             get { return this.listeArmes; }
             set { this.listeArmes = value; }
@@ -58,6 +61,19 @@ namespace BLL
         {
             throw new NotImplementedException();
         }
+
+        public BindingList<Arme> Importer(FileStream flux)
+        {
+            this.ListeArmes = new ArmesDAL().ImportXML(flux);
+            return this.ListeArmes;
+        }
+
+        public void Exporter(BindingList<Arme> liste, FileStream flux)
+        {
+            throw new NotImplementedException();
+        }
+
+
         #endregion
     }
 }

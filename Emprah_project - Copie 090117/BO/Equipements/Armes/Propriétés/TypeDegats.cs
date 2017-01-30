@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 using System.Runtime.Serialization.Formatters.Soap;
 
 namespace BO
-{   
+{
     [Serializable]
     public enum TypeDegats
     {
-        Energie,
-        Impact,
-        Dechirant,
-        Explosif
+        Energie = 0,
+        Impact = 2,
+        Dechirant = 4,
+        Explosif = 6
     }
 
-   
+
 }

@@ -16,7 +16,7 @@ namespace Charac_Generator_DH2
             Arme arme = new Arme();
             arme.Nom = "Boltgun";
             arme.Type = TypesArmes.Base;
-            arme.Portée = 100;
+            arme.Portee = 100;
             arme.RefPage = "DH CoreRulebook, 151";
 
             arme.Cadence = new Cadence(1, 3, 0);
@@ -24,7 +24,6 @@ namespace Charac_Generator_DH2
             arme.Penetration = 4;
             arme.Autonomie = 24;
             arme.Rechargement = new Rech(1, TypeRech.Action);
-            arme.Special = new ArmeSpecial("Tearing", "Version légère de l'arme des Space Marines, moins puissante.");
             arme.Poids = 7;
             arme.Disponibilité = Disponibilité.TresRare;
 

@@ -27,7 +27,7 @@ namespace BO
         {
 
         }
-        public Degats(int valeur, TypeDegats type)
+        public Degats(int valeur=0, TypeDegats type=TypeDegats.Impact)
         {
             this.Valeur = valeur;
             this.Type = type;

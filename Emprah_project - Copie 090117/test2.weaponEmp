@@ -1,3 +1,17 @@
 <armes>
-  <Arme Nom="ZeGun" Type="Pistolet" Portée="12" Cadence="1/3/12" Dégats="1d10+2I" Pen="2" AT="10" Rech="1 Action" Special="dégommant" Disponibilité="Rare" Poids="42" refPage="page 23" />
+  <Arme Nom="gun" Type="Melee" Categorie="8" Portée="12" Cadence="1/0/0" degValeur="4" degType="4" Pen="4" AT="1" Rech="1" TypeRech="1" Disponibilité="2" Poids="10" refPage="page 45" Source="3">
+    <Attributs>
+      <attribut nomAtt="peu fiable" description="s'enraye" />
+    </Attributs>
+  </Arme>
+   <Arme Nom="arme2" Type="Melee" Categorie="8" Portée="12" Cadence="1/0/0" degValeur="4" degType="4" Pen="4" AT="1" Rech="1" TypeRech="1" Disponibilité="2" Poids="10" refPage="page 45" Source="3">
+    <Attributs>
+      <attribut nomAtt="trop classe" description="s'enraye" />
+    </Attributs>
+  </Arme>
+  <Arme Nom="arme3" Type="Melee" Categorie="8" Portée="12" Cadence="1/0/0" degValeur="4" degType="4" Pen="4" AT="1" Rech="1" TypeRech="1" Disponibilité="2" Poids="10" refPage="page 45" Source="3">
+    <Attributs>
+      <attribut nomAtt="trop classe" description="s'enraye" />
+    </Attributs>
+  </Arme>
 </armes>

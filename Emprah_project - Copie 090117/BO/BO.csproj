@@ -47,13 +47,14 @@
     <Compile Include="Equipements\Armes\Propriétés\CategoriesArmes.cs" />
     <Compile Include="Equipements\Armes\Propriétés\Degats.cs" />
     <Compile Include="Equipements\Armes\Propriétés\Cadence.cs" />
-    <Compile Include="Equipements\Armes\Propriétés\ArmeSpecial.cs" />
+    <Compile Include="Equipements\Armes\Propriétés\AttributArme.cs" />
     <Compile Include="Equipements\Armes\Propriétés\TypeArmes.cs" />
     <Compile Include="Equipements\Armes\Propriétés\Rech.cs" />
     <Compile Include="Equipements\Armes\Arme.cs" />
     <Compile Include="Equipements\Disponibilité.cs" />
     <Compile Include="Equipements\Armes\Propriétés\TypeDegats.cs" />
     <Compile Include="Equipements\Equipement.cs" />
+    <Compile Include="Equipements\Source.cs" />
     <Compile Include="Mondes_Natal\BonusDeCarac.cs" />
     <Compile Include="Mondes_Natal\EnfantDuVide.cs" />
     <Compile Include="Mondes_Natal\Enum_Mondes.cs" />

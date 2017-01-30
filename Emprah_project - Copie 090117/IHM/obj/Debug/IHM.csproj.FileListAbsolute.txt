@@ -21,6 +21,11 @@ F:\ENI\Emprah_project\IHM\bin\Debug\DAL.dll
 F:\ENI\Emprah_project\IHM\bin\Debug\BO.pdb
 F:\ENI\Emprah_project\IHM\bin\Debug\DAL.pdb
 F:\ENI\Emprah_project\IHM\obj\Debug\IHM.csprojResolveAssemblyReference.cache
-F:\ENI\Emprah_project\IHM\obj\Debug\IHM.Form1.resources
 F:\ENI\Emprah_project\IHM\obj\Debug\IHM.Properties.Resources.resources
 F:\ENI\Emprah_project\IHM\obj\Debug\IHM.csproj.GenerateResource.Cache
+F:\ENI\Emprah_project\IHM\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\ENI\Emprah_project\IHM\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\ENI\Emprah_project\IHM\obj\Debug\IHM.EcranArmes.resources
+F:\ENI\Emprah_project\IHM\bin\Debug\BLL.dll
+F:\ENI\Emprah_project\IHM\bin\Debug\BLL.pdb
+F:\ENI\Emprah_project\IHM\obj\Debug\IHM.chemins.resources

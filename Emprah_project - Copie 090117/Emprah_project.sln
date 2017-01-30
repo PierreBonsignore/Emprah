@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Charac Generator DH2", "Charac Generator DH2\Charac Generator DH2.csproj", "{65F57EC6-E079-44DB-920E-54F924529457}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{981515E1-76AE-46F0-9A3C-ACC3A9384B60}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IHM", "IHM\IHM.csproj", "{A2FC742D-CF95-4BAD-B444-4B784742DB80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testMethodes", "testMethodes\testMethodes.csproj", "{779BD835-12D1-42DD-B0A8-532EED993ED2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A2FC742D-CF95-4BAD-B444-4B784742DB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2FC742D-CF95-4BAD-B444-4B784742DB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2FC742D-CF95-4BAD-B444-4B784742DB80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779BD835-12D1-42DD-B0A8-532EED993ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779BD835-12D1-42DD-B0A8-532EED993ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779BD835-12D1-42DD-B0A8-532EED993ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779BD835-12D1-42DD-B0A8-532EED993ED2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

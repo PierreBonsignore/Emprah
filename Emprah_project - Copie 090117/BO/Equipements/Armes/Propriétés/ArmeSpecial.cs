@@ -23,7 +23,7 @@ namespace BO
         }
         public override string ToString()
         {
-            return string.Format("\"{0}\":\n{1}", this.Nom, this.Description);
+            return this.Nom;
         }
     }
 }

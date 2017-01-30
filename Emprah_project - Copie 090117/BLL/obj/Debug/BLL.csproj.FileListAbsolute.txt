@@ -5,3 +5,10 @@ F:\ENI\Emprah_project\BLL\obj\Debug\BLL.dll
 F:\ENI\Emprah_project\BLL\obj\Debug\BLL.pdb
 F:\ENI\Emprah_project\BLL\bin\Debug\BO.dll
 F:\ENI\Emprah_project\BLL\bin\Debug\BO.pdb
+F:\ENI\Emprah_project\BLL\bin\Debug\DAL.dll
+F:\ENI\Emprah_project\BLL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\ENI\Emprah_project\BLL\bin\Debug\DAL.pdb
+F:\ENI\Emprah_project\BLL\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Prog\Emprah\Emprah_project - Copie 090117\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Prog\Emprah\Emprah_project - Copie 090117\BLL\obj\Debug\BLL.dll
+E:\Prog\Emprah\Emprah_project - Copie 090117\BLL\obj\Debug\BLL.pdb
